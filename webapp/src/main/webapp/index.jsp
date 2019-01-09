@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h1> Merry Xmas </h1>
+<h1> Hello, Welcome to Jenkins !!! </h1>
+<h1> Deploy to Tomcat  </h1>
